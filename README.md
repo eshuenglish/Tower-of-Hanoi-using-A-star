@@ -1,11 +1,11 @@
 # Tower-of-Hanoi-using-A-star
 This Repo contains my project on A-star use for Tower of Hanoi
 
-1 Project: Tower of Hanoi
-Goal: You will reflect upon the search algorithms learned during the lectures
-and implement two of them to solve the Tower of Hanoi.
-Figure 1: Tower of Hanoi
-Setting of the game:
+# Project: Tower of Hanoi
+Goal: You will reflect upon the search algorithms learned during the lectures and implement two of them to solve the Tower of Hanoi.
+
+# Setting of the game:
+
  The Tower of Hanoi is a puzzle game with usually 3 pegs and a fixed
 number of disks. For this project, we will use 4 pegs. Consider n > 0
 number of discs.
